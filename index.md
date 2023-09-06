@@ -4,7 +4,7 @@ title: Student Blog
 ---
 
 
-# Welcome to my website! :D
+# Welcome to my website!! :D
 Hello! My name is Matthew Borabo and I am very eager to be in Computer Science & Software Engineering! I am a junior at Del Norte High School and my favorite activity to do in my free time is to play the piano! I’ve played piano since I was around 7 years old (~10 years ago) and I am very involved in Cerificate of Merit, a music program that contains multiple levels of musical knowledge in theory and performance.
 
 ## Background
@@ -17,7 +17,7 @@ I am currently interested in the field of Computer Science, leading me to take C
  - Period 4 - Learning Strategies (Ms. Parmley)
  - Period 5 - AP Physics C: Mechanics (Mr. Eckman)
 
- ## Overall Goal for this Class
+## Overall Goal for this Class
  I hope I will be able to get a good grade in this class, no matter how much time that I will have to spend in and out of class. It may be a slow start to learn all about the terminal and basic coding fundamentals, but I will eventually be able to show that I am capable of being a good coder! :D
 
 ## About My Partner!
