@@ -3,7 +3,7 @@ layout: default
 title: Student Blog
 ---
 
-# Welcome to my website!! :D
+# Welcome to my website! :D
 
 <img src="images/IMG_2049 (2).jpeg" alt="Snow" style="width:25%;length:25%">
 <img src="images/IMG_3712 (1).PNG" alt="Snow" style="width:25%;length:25%">
