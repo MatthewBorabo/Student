@@ -3,8 +3,9 @@ layout: default
 title: Student Blog
 ---
 
-
 # Welcome to my website!! :D
+
+<img src="images/IMG_2049 (2).jpeg" alt="Snow" style="width:25%;length:25%">
 Hello! My name is Matthew Borabo and I am very eager to be in Computer Science & Software Engineering! I am a junior at Del Norte High School and my favorite activity to do in my free time is to play the piano! I’ve played piano since I was around 7 years old (~10 years ago) and I am very involved in Cerificate of Merit, a music program that contains multiple levels of musical knowledge in theory and performance.
 
 ## Background
