@@ -4,8 +4,8 @@ comments: false
 layout: post
 title: Game of Life
 description: Grab of the Game of Life from APCSA repo.
-type: Not Used
-courses: { compsci: {wek: 2} }
+type: plans
+courses: { compsci: {week: 2} }
 ---
 
 {% comment %}

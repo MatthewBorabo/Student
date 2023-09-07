@@ -4,8 +4,8 @@ comments: false
 layout: post
 title: Calculator MD
 description: Grab of the Calculator from APCSA repo.
-type: Not Used
-courses: { compsci: {wek: 2} }
+type: plans
+courses: { compsci: {week: 2} }
 ---
 
 <style>
