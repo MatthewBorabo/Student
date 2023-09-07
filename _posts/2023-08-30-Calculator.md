@@ -5,7 +5,7 @@ layout: post
 title: Calculator MD
 description: Having trouble with your math homework? Well say goodbye to your math woes using the sleek calculator! The calculator makes math a breeze and solves your problems in the blink of an eye! So what are you waiting for? Let's calculate and all your struggles will go away! Just don't divide by 0, my boss will be mad...
 type: plans
-courses: { compsci: {week: 2} }
+courses: { compsci: {week: 1} }
 ---
 
 <style>
