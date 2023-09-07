@@ -3,7 +3,7 @@ toc: true
 comments: false
 layout: post
 title: Game of Life
-description: Grab of the Game of Life from APCSA repo.
+description: Welcome to the Game of Life! This is a zero-player game that is designed to simulate evolution based off the initial position that YOU inputted! Experiment with different patterns to see the nature of life.
 type: plans
 courses: { compsci: {week: 2} }
 ---
