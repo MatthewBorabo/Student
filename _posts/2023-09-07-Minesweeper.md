@@ -4,8 +4,8 @@ comments: false
 layout: post
 title: Minesweeper
 description: Will you get a mine? Hopefully not, or else goodbye!
-type: hacks
-courses: { compsci: {week: 3} }
+type: Not Used
+courses: { compsci: {wek: 3} }
 ---
 
 <!DOCTYPE html>
