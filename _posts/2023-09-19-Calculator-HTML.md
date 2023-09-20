@@ -4,8 +4,8 @@ comments: true
 layout: post
 title: Calculator HTML
 description: Why did the calculator break up with the computer? Because it couldn't handle its irrational behavior!
-type: hacks
-courses: { compsci: {week: 4} }
+type: Not Used
+courses: { compsci: {wek: 4} }
 ---
 
 <style>
