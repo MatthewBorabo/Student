@@ -127,6 +127,38 @@ function calculator(event) {
     }
 }
 
+// Function to convert a numeric average to a GPA grade
+function calculateGPA(average) {
+    if (average >= 90) {
+        return 'A+';
+    } else if (average >= 85) {
+        return 'A';
+    } else if (average >= 80) {
+        return 'A-';
+    } else if (average >= 75) {
+        return 'B+';
+    } else if (average >= 70) {
+        return 'B';
+    } else if (average >= 65) {
+        return 'B-';
+    } else if (average >= 60) {
+        return 'C+';
+    } else if (average >= 55) {
+        return 'C';
+    } else if (average >= 50) {
+        return 'C-';
+    } else if (average >= 45) {
+        return 'D+';
+    } else if (average >= 40) {
+        return 'D';
+    } else {
+        return 'F';
+    }
+}
+
+// Inside the calculator function, update the GPA display
+document.getElementById('average').innerHTML = calculateGPA(Math.round(total / count));
+
 // Creates 1st input box on Window load
 newInputLine(0);
 
