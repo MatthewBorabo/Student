@@ -7,4 +7,6 @@ type: plans
 courses: {'compsci': {'week': 5}}
 ---
 
-hm
+- Find a Sprite
+- Animate the sprite
+- Follow the teacher website! :D
