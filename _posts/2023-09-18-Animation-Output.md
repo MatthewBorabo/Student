@@ -1,9 +1,9 @@
 ---
 comments: True
 layout: post
-title: Animation Plan
-description: Starting the journey of Javascript animation!
-type: plans
+title: Animation Output
+description: What's up dawg
+type: hacks
 courses: {'compsci': {'week': 5}}
 ---
 
